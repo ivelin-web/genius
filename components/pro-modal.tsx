@@ -3,7 +3,7 @@
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { useProModal } from "@/hooks/use-pro-modal";
 import { Badge } from "@/components/ui/badge";
-import { tools } from "@/app/(dashboard)/(routes)/dashboard/page";
+import { tools } from "@/constants";
 import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import { Check, Zap } from "lucide-react";
