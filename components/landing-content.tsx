@@ -14,7 +14,7 @@ const testimonials = [
     name: "Antonio",
     avatarSrc: "/antonio.jpg",
     title: "Designer",
-    description: "I ise this daily for generating new photos!",
+    description: "I use this daily for generating new photos!",
   },
   {
     name: "Mark",
